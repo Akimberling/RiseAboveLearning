@@ -7,7 +7,9 @@ The purpose of this project is to develop a web application that allows teachers
 Website Link: http://www.riseabovelearning.eledonta.com/public/
 
 All privileges admin name: Lily Girl
+
 All privileges admin login:  lgirl@gmail.com
+
 All privileges admin password: lily
 
 Project Paper & Presentation can be find with the program files. 
