@@ -1,0 +1,167 @@
+  <p><b>Question 1:</b></P>
+      <p>Which format is best for high quality Web photos?<br /><br />
+
+            <input type = "radio" name = "radiobutton" value = "A" />
+            <label>GIF</label>
+
+            <input type = "radio" name = "radiobutton" value = "B" />
+            <label>JPEG</label>
+
+            <input type = "radio" name = "radiobutton" value = "C" />
+            <label>TIF</label>
+
+            <input type = "radio" name = "radiobutton" value = "D" />
+            <label>QRL</label><br />
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 2:</b></P>
+      <p> What are the four tags needed in a website?<br /><br />
+
+            <input type = "radio" name = "radiobutton1" value = "E" />
+            <label>html, head, a, body </label>
+
+            <input type = "radio" name = "radiobutton1" value = "F" />
+            <label>html, head, i, p </label>
+
+            <input type = "radio" name = "radiobutton1" value = "G" />
+            <label>html, head, title, body </label>
+
+            <input type = "radio" name = "radiobutton1" value = "H" />
+            <label>html, th, title, body </label<br />
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 3:</b></P>
+      <p>What is semantic HTML?<br /><br />
+
+            <input type = "radio" name = "radiobutton2" value = "I" />
+            <label>The way of correctly marking up and defining data </label>
+
+            <input type = "radio" name = "radiobutton2" value = "J" />
+            <label>HTML and CSS</label>
+
+            <input type = "radio" name = "radiobutton2" value = "K" />
+            <label>A whole bunch of coding </label>
+
+            <input type = "radio" name = "radiobutton2" value = "L" />
+            <label>Not marking anything up </label><br />
+
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 4:</b></P>
+      <p>What does the div tag do?<br /><br />
+
+            <input type = "radio" name = "radiobutton3" value = "M" />
+            <label>Divides content </label>
+
+            <input type = "radio" name = "radiobutton3" value = "N" />
+            <label>Makes text bold </label>
+
+            <input type = "radio" name = "radiobutton3" value = "O" />
+            <label>Makes text bigger </label>
+
+            <input type = "radio" name = "radiobutton3" value = "P" />
+            <label>Puts text into a list </label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 5:</b></P>
+      <p>What property does an a tag need to link to another page?<br /><br />
+
+            <input type = "radio" name = "radiobutton4" value = "Q" />
+            <label>a href="" </label>
+
+            <input type = "radio" name = "radiobutton4" value = "R" />
+            <label>a type=""</label>
+
+            <input type = "radio" name = "radiobutton4" value = "S" />
+            <label>a color=""</label>
+
+            <input type = "radio" name = "radiobutton4" value = "T" />
+            <label>a width=""</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 6:</b></P>
+      <p>The p tag is used for what purpose?<br /><br />
+
+            <input type = "radio" name = "radiobutton5" value = "U" />
+            <label>To make a list </label>
+
+            <input type = "radio" name = "radiobutton5" value = "V" />
+            <label>To write text </label>
+
+            <input type = "radio" name = "radiobutton5" value = "W" />
+            <label>To display a heading </label>
+
+            <input type = "radio" name = "radiobutton5" value = "X" />
+            <label>It's not used for anything </label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 7:</b></P>
+      <p>Which heading tag displays the biggest?<br /><br />
+
+            <input type = "radio" name = "radiobutton6" value = "Y" />
+            <label>h1</label>
+
+            <input type = "radio" name = "radiobutton6" value = "Z" />
+            <label>h4</label>
+
+            <input type = "radio" name = "radiobutton6" value = "AA" />
+            <label>h6</label>
+
+            <input type = "radio" name = "radiobutton6" value = "BB" />
+            <label>h5</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 8:</b></P>
+      <p> The dl tag stands for what?<br /><br />
+
+            <input type = "radio" name = "radiobutton7" value = "CC" />
+            <label>definition list</label>
+
+            <input type = "radio" name = "radiobutton7" value = "DD" />
+            <label>definition letter </label>
+
+            <input type = "radio" name = "radiobutton7" value = "EE" />
+            <label>data list</label>
+
+            <input type = "radio" name = "radiobutton7" value = "FF" />
+            <label> down low</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 9:</b></P>
+      <p>The abbr tag is used for what purpose?<br /><br />
+
+            <input type = "radio" name = "radiobutton8" value = "GG" />
+            <label>To label abbreviations and tell the user what it is </label>
+
+            <input type = "radio" name = "radiobutton8" value = "HH" />
+            <label>It has no purpose </label>
+
+            <input type = "radio" name = "radiobutton8" value = "II" />
+            <label>To over rule acronyms </label>
+
+            <input type = "radio" name = "radiobutton8" value = "JJ" />
+            <label>To make abbreviations pretty </label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 10:</b></P>
+      <p>What is the <tr> tag for?<br /><br />
+
+            <input type = "radio" name = "radiobutton9" value = "KK" />
+            <label>Makes a table header </label>
+
+            <input type = "radio" name = "radiobutton9" value = "LL" />
+            <label>Makes a table cell</label>
+
+            <input type = "radio" name = "radiobutton9" value = "MM" />
+            <label>Makes a table row </label>
+
+            <input type = "radio" name = "radiobutto9" value = "NN" />
+            <label>Puts a border around the table</label><br />
+
+      </p>

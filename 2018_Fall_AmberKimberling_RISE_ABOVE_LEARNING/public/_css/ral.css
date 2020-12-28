@@ -1,0 +1,413 @@
+/*RISE ABOVE LEARNING CSS*/
+
+/*BODY - ALL CONTENT*/
+	body{
+		margin:0px;
+		padding:0px;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+	div.contain{
+		max-width:1024px;
+		width: 80%;
+		min-height: 462px;
+		margin-left: auto;
+		margin-right: auto;
+		background-color:#0400a1;
+		box-shadow: 0px 3px 10px 2px #a7a7a7;
+	} 
+	blockquote{
+		margin:0px;
+	}
+	input[type=submit], input.butt[type=reset], input.butt[type=button] {
+		background-color: #54b300;
+		color: white;
+		padding: 6px 20px;
+		margin-top: 10px;
+		border: none;
+		cursor: pointer;
+		float:right;
+	}
+
+	input[type=submit]:hover, input.butt[type=reset]:hover, input.butt[type=button]:hover {
+		background-color: #3D8300;
+	}
+/*HEADER*/
+	header{
+		background-color: #ffffff;
+		margin:0px;
+		font-weight:bold;
+	}
+	img.logo{
+		width: 300px;
+		height: auto;
+		margin-right: auto;
+		margin-left: auto;
+		display: block;
+		margin: 20px auto 10px auto;
+	}
+	div.nav{
+		margin-left: auto;
+		margin-right: auto;
+		max-width: 720px;
+		width:100%;
+	}
+	nav{
+		background-color: #54b300;
+		overflow: hidden;
+	}
+	nav ul{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+	nav ul li{
+		display: inline;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+	}
+	nav ul li button.dropbtn1, nav ul li button.dropbtn{
+		cursor: pointer;
+		font-size: 14px;    
+		border: none;
+		outline: none;
+		color: white;
+		padding: 14px 16px;
+		background-color: #54b300;
+		margin: 0;
+		font-weight:bold;
+	}
+	nav ul li div.dropdown{
+		overflow: hidden;
+	}
+	nav ul li a{
+		font-size: 14px;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+	.dropdown_content{
+		display: none;
+		position: absolute;
+		min-width: 160px;
+		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		z-index: 1;
+	}
+	.dropdown_content a{
+		float: none;
+		color: black;
+		padding: 12px 16px;
+		text-decoration: none;
+		display: block;
+		text-align: center;
+		 background-color: #f9f9f9;
+	}
+	nav a:hover, .dropdown:hover, .dropbtn1:hover, .dropbtn:hover {
+		color : #0400a1;
+	}
+	.show {
+		display: inline-block;
+		margin-top: 46px;
+		margin-left: -136px;
+	}
+	.current{
+		text-decoration:underline;
+	}
+	div.nav2{
+		display:none;
+		margin: 5px 10px 10px 20px;
+		float: right;
+	}
+	div.nav2 ul{
+		float:right;
+		padding: 20px 0px 0px 0px;
+	}
+	div.nav2 ul li{
+		display: block;
+		margin: 0;
+		padding: 0;
+		overflow: none;
+		clear:both;
+		text-align: right;
+		margin-bottom: 5px;
+	}
+	div.nav2 img{
+		float:right;
+		padding: 7px 15px 0px 0px;
+	}
+/*ASIDE*/
+	aside{
+		width: 24%;
+		padding: 10px 0.5%;
+		float:left;
+		color:#ffffff;
+	}
+	h4.title{
+		text-align: center;
+	}
+	div.contain3{
+		width:90%;
+		margin-right:auto;
+		margin-left:auto;
+	}
+	p a.aaside{
+		color:#ffffff;
+	}
+	p a.aaside:hover{
+		color: #54b300;
+	}
+	aside ul{
+		padding-left:0px; 
+	}
+	aside li{
+		list-style-type: none;
+		text-align: left;
+		margin-bottom: 20px;
+		padding-top: 10px;
+		text-align: center;
+	}
+	aside a.quiz{
+		color:#ffffff;
+		text-decoration: none;
+	}
+	aside a.quiz:hover{
+		color: #54b300;
+	}
+	aside form input{
+		float: left;
+		width: 90%;
+	}
+	aside input[type=submit]{
+		padding: 3px 12px;
+		width:60px;
+	}
+	a.asiquiz{
+		color:#ffffff;
+	}
+	a.asiquiz:hover{
+		color: #54b300;
+	}
+/*MAIN*/
+	div.contain2{
+		width:90%;
+		margin-right:auto;
+		margin-left:auto;
+	}
+	main{
+		width: 74%;
+		min-height: 462px;
+		padding: 10px 0.5%;
+		float:right;
+		background-color:#ffffff;
+	}
+	main p{
+		line-height: 20px;
+	}
+	p.quote{
+		color:#0400a1;
+		width:70%;
+		text-align:center;
+		margin-right:auto;
+		margin-left:auto;
+	}
+	p a, a.forms{
+		text-decoration: none;
+		color: #000000;
+	}
+	p a:hover, a.forms:hover{
+		color:#0400a1;
+	}
+	img.imgSize{
+		width: 100%;
+	}
+	.clear{
+		clear:both;
+	}
+	form fieldset{
+		padding: 30px;
+		margin: 30px 0px 0px 0px;
+	}
+	form label{
+		float: left;
+		margin-bottom: 20px;
+	}
+	form input{
+		float: right;
+		width: 50%;
+	}
+	form input.submit{
+		width: 51%;
+	}
+	form input.cat{
+		margin-top: 0px;
+		width: 100px;
+	}
+	div.formcon{
+		max-width: 400px;
+		width:  100%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	td a.perm, a.edit{
+		text-decoration:none;
+		color:#000000;
+	}
+	td a.perm:hover, a.edit:hover{
+		color:#0400a1;
+	}
+	tr td{
+		width: 33.3%;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		text-align: center;
+	}
+	table{
+		width: 100%;
+		border: 2px solid #0400a1;
+	}
+	table th{
+		background-color: #0400a1;
+		color: #ffffff;
+	}
+	div.errors p, div.errors li{
+		color:#ff0000;
+	}
+	p.permish{
+		width:100%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 27px;
+	}
+	div.fifty{
+		width:47%;
+		margin: 10px 1%;
+		padding: 10px 0.5%;
+		float:left;
+	}
+	div.button1{
+		background-color: #0400a1;
+		margin-bottom: 25px;
+		text-align: center;
+	}
+	div.button1:hover{
+		background-color:#54b300;
+	}
+	div.button1 a{
+		text-decoration: none;
+		color:#ffffff;
+	}
+	/*Quiz FORM*/
+	form.quizForm input{
+		clear:both;
+		float:left;
+		width:20px;
+	}
+	form.quizForm label{
+		float:left;
+
+	}
+	form.quizForm input.butt{
+		width:100px;
+		float: right;
+	}
+/*FOOTER*/
+	footer{
+		background-color: #54b300;
+		padding: 20px;
+		text-align:center;
+		font-size:12px;
+		color: #ffffff;
+		font-weight:bold;
+		clear:both;
+	}
+	footer p{
+		margin-top: 10px;
+	}
+	footer hr.thefoot{
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 20px;
+	}
+	footer a{
+		font-weight:bold;
+		color: #ffffff;
+		text-decoration: none;	
+	}
+	footer a:hover{
+		color : #0400a1;
+	}
+	footer ul{
+		list-style-type: none;
+		padding:0px;
+	}
+	footer ul li{
+		display:inline-block;
+		padding:10px;
+	}
+	footer ul li a{
+		text-decoration:none;
+		color: #ffffff;
+	}
+	footer ul li a:hover{
+		color : #0400a1;
+	}
+    
+/*MEDIA QUERRIES FOR DIFFERENT DEVICES*/
+@media only screen and (max-width: 1200px) {
+
+}
+@media only screen and (max-width: 992px) {
+	footer hr.thefoot{
+		width: 75%;
+	}
+} 
+@media only screen and (max-width: 768px) {
+	aside{
+		display:none;
+	}
+	div.nav{
+		display: none;
+	}
+	div.nav2{
+		display: inherit;
+	}
+	div.nav2 ul{
+		display: none;
+	}
+	div.contain{
+		width: 100%;
+	}
+	footer hr.thefoot{
+		width: 95%;
+	}
+	main{
+		width:100%;
+	}
+
+} 
+@media only screen and (max-width: 600px) {
+	aside{
+		display:none;
+	}
+
+	td.small, th.small{
+		display: none;
+	}
+	legend h1{
+		font-size: 25px;
+	}
+	form fieldset{
+		max-width: 100%;
+		padding: 10px;
+	}
+	div.clearsmall{
+		clear: both;
+		margin-top: 10px;
+	}
+	div.fifty{
+		width:97%;
+	}
+
+} 

@@ -1,0 +1,167 @@
+  <p><b>Question 1:</b></P>
+      <p>How many American colonies fought for independence from Britain?<br /><br />
+
+            <input type = "radio" name = "radiobutton" value = "A" />
+            <label>13</label>
+
+            <input type = "radio" name = "radiobutton" value = "B" />
+            <label>7</label>
+
+            <input type = "radio" name = "radiobutton" value = "C" />
+            <label>10</label>
+
+            <input type = "radio" name = "radiobutton" value = "D" />
+            <label>17</label><br />
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 2:</b></P>
+      <p>Where were the first shots fired to kick off the war?<br /><br />
+
+            <input type = "radio" name = "radiobutton1" value = "E" />
+            <label>New York</label>
+
+            <input type = "radio" name = "radiobutton1" value = "F" />
+            <label>Pennsylvannia</label>
+
+            <input type = "radio" name = "radiobutton1" value = "G" />
+            <label>Massachusetts</label>
+
+            <input type = "radio" name = "radiobutton1" value = "H" />
+            <label>Jamestown</label><br />
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 3:</b></P>
+      <p>What year did the colonists issue their Declaration of Independence?<br /><br />
+
+            <input type = "radio" name = "radiobutton2" value = "I" />
+            <label>1776</label>
+
+            <input type = "radio" name = "radiobutton2" value = "J" />
+            <label>1779</label>
+
+            <input type = "radio" name = "radiobutton2" value = "K" />
+            <label>1770</label>
+
+            <input type = "radio" name = "radiobutton2" value = "L" />
+            <label>1783</label><br />
+
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 4:</b></P>
+      <p>Which city served as a capital of sorts for the colonies?<br /><br />
+
+            <input type = "radio" name = "radiobutton3" value = "M" />
+            <label>Philadelphia</label>
+
+            <input type = "radio" name = "radiobutton3" value = "N" />
+            <label>Jamestown</label>
+
+            <input type = "radio" name = "radiobutton3" value = "O" />
+            <label>Annapolis</label>
+
+            <input type = "radio" name = "radiobutton3" value = "P" />
+            <label>New York</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 5:</b></P>
+      <p> Whose side did France take during the American Revolution?<br /><br />
+
+            <input type = "radio" name = "radiobutton4" value = "Q" />
+            <label>the colonists</label>
+
+            <input type = "radio" name = "radiobutton4" value = "R" />
+            <label>the British</label>
+
+            <input type = "radio" name = "radiobutton4" value = "S" />
+            <label>neither</label>
+
+            <input type = "radio" name = "radiobutton4" value = "T" />
+            <label>I dont know</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 6:</b></P>
+      <p>The Boston Massacre and the Boston Tea Party happened just days apart.<br /><br />
+
+            <input type = "radio" name = "radiobutton5" value = "U" />
+            <label>True</label>
+
+            <input type = "radio" name = "radiobutton5" value = "V" />
+            <label>False</label>
+
+            <input type = "radio" name = "radiobutton5" value = "W" />
+            <label>Both</label>
+
+            <input type = "radio" name = "radiobutton5" value = "X" />
+            <label>Neither</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 7:</b></P>
+      <p>How were the colonists punished after they dumped British tea into Boston Harbor?<br /><br />
+
+            <input type = "radio" name = "radiobutton6" value = "Y" />
+            <label>They lost the right to rule.</label>
+
+            <input type = "radio" name = "radiobutton6" value = "Z" />
+            <label>They were imprisoned.</label>
+
+            <input type = "radio" name = "radiobutton6" value = "AA" />
+            <label>They were all hanged.</label>
+
+            <input type = "radio" name = "radiobutton6" value = "BB" />
+            <label>Tar and feathered</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 8:</b></P>
+      <p> Who was the British king during the American Revolution?<br /><br />
+
+            <input type = "radio" name = "radiobutton7" value = "CC" />
+            <label>King George III</label>
+
+            <input type = "radio" name = "radiobutton7" value = "DD" />
+            <label>King Henry V</label>
+
+            <input type = "radio" name = "radiobutton7" value = "EE" />
+            <label>Queen Victoria I</label>
+
+            <input type = "radio" name = "radiobutton7" value = "FF" />
+            <label>King Henry IV</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 9:</b></P>
+      <p>Other than his famous midnight ride, what was Paul Revere best known for?<br /><br />
+
+            <input type = "radio" name = "radiobutton8" value = "GG" />
+            <label>his work with silver</label>
+
+            <input type = "radio" name = "radiobutton8" value = "HH" />
+            <label>This paintings</label>
+
+            <input type = "radio" name = "radiobutton8" value = "II" />
+            <label>his cotton plantations</label>
+
+            <input type = "radio" name = "radiobutton8" value = "JJ" />
+            <label>his dazeling looks</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 10:</b></P>
+      <p>African-Americans were not permitted to fight in the war.<br /><br />
+
+            <input type = "radio" name = "radiobutton9" value = "KK" />
+            <label>Neither True not Flase</label>
+
+            <input type = "radio" name = "radiobutton9" value = "LL" />
+            <label>Both</label>
+
+            <input type = "radio" name = "radiobutton9" value = "MM" />
+            <label>True</label>
+
+            <input type = "radio" name = "radiobutto9" value = "NN" />
+            <label>False</label><br />
+
+      </p>

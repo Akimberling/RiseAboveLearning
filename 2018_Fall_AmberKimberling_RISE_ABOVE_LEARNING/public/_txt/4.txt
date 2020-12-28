@@ -1,0 +1,167 @@
+  <p><b>Question 1:</b></P>
+      <p>A stone with an initial velocity of zero is dropped from a bridge above a river. After 3 s, the stone strikes the water below the bridge. Approximately how fast is the stone traveling when it strikes the water?<br /><br />
+
+            <input type = "radio" name = "radiobutton" value = "A" />
+            <label>30 m/s</label>
+
+            <input type = "radio" name = "radiobutton" value = "B" />
+            <label>20 m/s</label>
+
+            <input type = "radio" name = "radiobutton" value = "C" />
+            <label>10 m/s</label>
+
+            <input type = "radio" name = "radiobutton" value = "D" />
+            <label>45 m/s</label><br />
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 2:</b></P>
+      <p>The diagram below shows a football being kicked. Angle θ represents the angle between the horizontal and the ball's initial direction of motion. Which value of θ would result in the ball traveling the longest distance? <br /><br />
+
+            <input type = "radio" name = "radiobutton1" value = "E" />
+            <label>25 m/s</label>
+
+            <input type = "radio" name = "radiobutton1" value = "F" />
+            <label>60 m/s</label>
+
+            <input type = "radio" name = "radiobutton1" value = "G" />
+            <label>45 m/s</label>
+
+            <input type = "radio" name = "radiobutton1" value = "H" />
+            <label>90 m/s</label><br />
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 3:</b></P>
+      <p>If a golf ball is hit with more force at the same angle, its initial acceleration will<br /><br />
+
+            <input type = "radio" name = "radiobutton2" value = "I" />
+            <label>Increase</label>
+
+            <input type = "radio" name = "radiobutton2" value = "J" />
+            <label>Decrease</label>
+
+            <input type = "radio" name = "radiobutton2" value = "K" />
+            <label>Remain the same</label>
+
+            <input type = "radio" name = "radiobutton2" value = "L" />
+            <label>None of the above</label><br />
+
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 4:</b></P>
+      <p>A pitching machine launches a softball horizontally with no spin. Which of the following statements correctly describes the ball's motion in the air if the machine is set so that the launch speed is increased?<br /><br />
+
+            <input type = "radio" name = "radiobutton3" value = "M" />
+            <label>The ball’s velocity increases, and the distance the ball falls in one second remains the same</label>
+
+            <input type = "radio" name = "radiobutton3" value = "N" />
+            <label>	The ball’s velocity increases, and the distance the ball falls in one second increases</label>
+
+            <input type = "radio" name = "radiobutton3" value = "O" />
+            <label>The ball’s velocity remains the same, and the distance the ball falls in one second decreases</label>
+
+            <input type = "radio" name = "radiobutton3" value = "P" />
+            <label>The ball’s velocity increases, and the distance it falls in one second decreases </label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 5:</b></P>
+      <p>A punter on the football team can kick the ball at an angle of either 30° or 80°. If he wants to maximize the distance the ball travels, at which angle should he kick the ball?<br /><br />
+
+            <input type = "radio" name = "radiobutton4" value = "Q" />
+            <label>The 30° angle because the ball goes further</label>
+
+            <input type = "radio" name = "radiobutton4" value = "R" />
+            <label>The 80° angle because the ball goes further</label>
+
+            <input type = "radio" name = "radiobutton4" value = "S" />
+            <label>The 30° angle because the ball spends more time in the air </label>
+
+            <input type = "radio" name = "radiobutton4" value = "T" />
+            <label>The 80° angle because the ball spends more time in the air</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 6:</b></P>
+      <p>A soccer ball is kicked so that at the peak of its trajectory it has a horizontal speed of 21 m/s, is 6 meters above the ground. The entire flight takes 2.2 seconds.  How far away from the kicker does the soccer ball land?<br /><br />
+
+            <input type = "radio" name = "radiobutton5" value = "U" />
+            <label13.2 meters</label>
+
+            <input type = "radio" name = "radiobutton5" value = "V" />
+            <label>46.2 meters</label>
+
+            <input type = "radio" name = "radiobutton5" value = "W" />
+            <label>6 meters</label>
+
+            <input type = "radio" name = "radiobutton5" value = "X" />
+            <label>21 meters</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 7:</b></P>
+      <p>The only force acting on the object in projectile motion is...<br /><br />
+
+            <input type = "radio" name = "radiobutton6" value = "Y" />
+            <label>Gravity</label>
+
+            <input type = "radio" name = "radiobutton6" value = "Z" />
+            <label>Air resistance"</label>
+
+            <input type = "radio" name = "radiobutton6" value = "AA" />
+            <label>Acceleration</label>
+
+            <input type = "radio" name = "radiobutton6" value = "BB" />
+            <label>Friction</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 8:</b></P>
+      <p>Projectile motion consists of which coordinates?<br /><br />
+
+            <input type = "radio" name = "radiobutton7" value = "CC" />
+            <label>X,y</label>
+
+            <input type = "radio" name = "radiobutton7" value = "DD" />
+            <label>X,z </label>
+
+            <input type = "radio" name = "radiobutton7" value = "EE" />
+            <label>Z,y</label>
+
+            <input type = "radio" name = "radiobutton7" value = "FF" />
+            <label>Y,z</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 9:</b></P>
+      <p>Which coordinate is horizontal?<br /><br />
+
+            <input type = "radio" name = "radiobutton8" value = "GG" />
+            <label>X</label>
+
+            <input type = "radio" name = "radiobutton8" value = "HH" />
+            <label>Z</label>
+
+            <input type = "radio" name = "radiobutton8" value = "II" />
+            <label>Y</label>
+
+            <input type = "radio" name = "radiobutton8" value = "JJ" />
+            <label>None of the above</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 10:</b></P>
+      <p>Which of the following is true about the x component of a projectile?<br /><br />
+
+            <input type = "radio" name = "radiobutton9" value = "KK" />
+            <label>Velocity varies</label>
+
+            <input type = "radio" name = "radiobutton9" value = "LL" />
+            <label>The acceleration along x varies</label>
+
+            <input type = "radio" name = "radiobutton9" value = "MM" />
+            <label>Velocity is constant</label>
+
+            <input type = "radio" name = "radiobutto9" value = "NN" />
+            <label>It is affected by gravity</label><br />
+
+      </p>

@@ -1,0 +1,167 @@
+  <p><b>Question 1:</b></P>
+      <p>HTML stands for what?<br /><br />
+
+            <input type = "radio" name = "radiobutton" value = "A" />
+            <label>Hypertext Markup Language</label>
+
+            <input type = "radio" name = "radiobutton" value = "B" />
+            <label>Hypertrophic Management Language</label>
+
+            <input type = "radio" name = "radiobutton" value = "C" />
+            <label>Hyperberic Tertiary Logrithm</label>
+
+            <input type = "radio" name = "radiobutton" value = "D" />
+            <label>Hyperresonant Marginal Logrithm</label><br />
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 2:</b></P>
+      <p>Every HTML document should have what?<br /><br />
+
+            <input type = "radio" name = "radiobutton1" value = "E" />
+            <label>A head section, and within it a title, followed by a body</label>
+
+            <input type = "radio" name = "radiobutton1" value = "F" />
+            <label>A title section, and within it a header, followed by a body</label>
+
+            <input type = "radio" name = "radiobutton1" value = "G" />
+            <label>A body and header</label>
+
+            <input type = "radio" name = "radiobutton1" value = "H" />
+            <label>None of these</label><br />
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 3:</b></P>
+      <p>Which tag would insert a graphic into a Web page?<br /><br />
+
+            <input type = "radio" name = "radiobutton2" value = "I" />
+            <label>Img src=Glass.jpeg</label>
+
+            <input type = "radio" name = "radiobutton2" value = "J" />
+            <label>P....Glass.jpeg..../pe</label>
+
+            <input type = "radio" name = "radiobutton2" value = "K" />
+            <label>Img file=Glass.jpeg</label>
+
+            <input type = "radio" name = "radiobutton2" value = "L" />
+            <label>Picture=Glass.jpeg</label><br />
+
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 4:</b></P>
+      <pUse this tag to emphasize text.<br /><br />
+
+            <input type = "radio" name = "radiobutton3" value = "M" />
+            <label>em</label>
+
+            <input type = "radio" name = "radiobutton3" value = "N" />
+            <label>i</label>
+
+            <input type = "radio" name = "radiobutton3" value = "O" />
+            <label>a</label>
+
+            <input type = "radio" name = "radiobutton3" value = "P" />
+            <label>td</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 5:</b></P>
+      <p>What is the tag that begins a list of items?<br /><br />
+
+            <input type = "radio" name = "radiobutton4" value = "Q" />
+            <label>Ol or ul</label>
+
+            <input type = "radio" name = "radiobutton4" value = "R" />
+            <label>Li</label>
+
+            <input type = "radio" name = "radiobutton4" value = "S" />
+            <label>Ls</label>
+
+            <input type = "radio" name = "radiobutton4" value = "T" />
+            <label>Ul or ls</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 6:</b></P>
+      <p>You wish your list to be in a particular order. Which tag should you use?<br /><br />
+
+            <input type = "radio" name = "radiobutton5" value = "U" />
+            <label>Ul</label>
+
+            <input type = "radio" name = "radiobutton5" value = "V" />
+            <label>Ol</label>
+
+            <input type = "radio" name = "radiobutton5" value = "W" />
+            <label>Li</label>
+
+            <input type = "radio" name = "radiobutton5" value = "X" />
+            <label>Ls</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 7:</b></P>
+      <p>Which tag would be used for a line break?<br /><br />
+
+            <input type = "radio" name = "radiobutton6" value = "Y" />
+            <label>br</label>
+
+            <input type = "radio" name = "radiobutton6" value = "Z" />
+            <label>nbsp</label>
+
+            <input type = "radio" name = "radiobutton6" value = "AA" />
+            <label>ln</label>
+
+            <input type = "radio" name = "radiobutton6" value = "BB" />
+            <label>breakspace</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 8:</b></P>
+      <p>Does a linebreak need an end tag?<br /><br />
+
+            <input type = "radio" name = "radiobutton7" value = "CC" />
+            <label>No</label>
+
+            <input type = "radio" name = "radiobutton7" value = "DD" />
+            <label>Yes</label>
+
+            <input type = "radio" name = "radiobutton7" value = "EE" />
+            <label>I dont know</label>
+
+            <input type = "radio" name = "radiobutton7" value = "FF" />
+            <label>Yes and no</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 9:</b></P>
+      <p>What portion of Www.newcaneynews.com is the domain name<br /><br />
+
+            <input type = "radio" name = "radiobutton8" value = "GG" />
+            <label>Newcaneynews is the domain name</label>
+
+            <input type = "radio" name = "radiobutton8" value = "HH" />
+            <label>Www is the domain name</label>
+
+            <input type = "radio" name = "radiobutton8" value = "II" />
+            <label>Com is the domain name</label>
+
+            <input type = "radio" name = "radiobutton8" value = "JJ" />
+            <label>Www.newcaneynews.com is the domain name.</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 10:</b></P>
+      <p>What allows you to transfer your html files to a Web server?<br /><br />
+
+            <input type = "radio" name = "radiobutton9" value = "KK" />
+            <label>FTP which stands for File Tracking Performance</label>
+
+            <input type = "radio" name = "radiobutton9" value = "LL" />
+            <label>BMR which stands for Binary Metric Rhythm</label>
+
+            <input type = "radio" name = "radiobutton9" value = "MM" />
+            <label>FTP which stands for File Transfer Protocol</label>
+
+            <input type = "radio" name = "radiobutto9" value = "NN" />
+            <label>None of these</label><br />
+
+      </p>

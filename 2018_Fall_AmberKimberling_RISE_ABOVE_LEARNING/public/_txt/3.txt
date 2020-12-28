@@ -1,0 +1,167 @@
+  <p><b>Question 1:</b></P>
+      <p>Suppose you are at the center of a large freely rotating horizontal turntable in a carnival fun house. As you crawl toward the edge, the angular momentum of you and the turntable<br /><br />
+
+            <input type = "radio" name = "radiobutton" value = "A" />
+            <label>Remains the same, but the RPM decrease</label>
+
+            <input type = "radio" name = "radiobutton" value = "B" />
+            <label> Decreases in direct proportion to your decrease in RPMs</label>
+
+            <input type = "radio" name = "radiobutton" value = "C" />
+            <label>Increases</label>
+
+            <input type = "radio" name = "radiobutton" value = "D" />
+            <label>Decreases</label><br />
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 2:</b></P>
+      <p>Since angular momentum is conserved in a rotating object,<br /><br />
+
+            <input type = "radio" name = "radiobutton1" value = "E" />
+            <label>Speed decreases while mass is constant </label>
+
+            <input type = "radio" name = "radiobutton1" value = "F" />
+            <label>	Speed decreases as mass decreases</label>
+
+            <input type = "radio" name = "radiobutton1" value = "G" />
+            <label>Speed increases as radial length decreases</label>
+
+            <input type = "radio" name = "radiobutton1" value = "H" />
+            <label>Speed increases as radial length increases</label><br />
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 3:</b></P>
+      <p>Toss a baseball bat into the air and it wobbles about its<br /><br />
+
+            <input type = "radio" name = "radiobutton2" value = "I" />
+            <label>Center of mass</label>
+
+            <input type = "radio" name = "radiobutton2" value = "J" />
+            <label>Heavier end</label>
+
+            <input type = "radio" name = "radiobutton2" value = "K" />
+            <label>Geometrical center</label>
+
+            <input type = "radio" name = "radiobutton2" value = "L" />
+            <label>None of the Above</label><br />
+
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 4:</b></P>
+      <p>	If the polar icecaps melted, the resulting water would spread over the entire earth. The new mass distribution would tend to make the length of the day<br /><br />
+
+            <input type = "radio" name = "radiobutton3" value = "M" />
+            <label>Shorter</label>
+
+            <input type = "radio" name = "radiobutton3" value = "N" />
+            <label>Longer</label>
+
+            <input type = "radio" name = "radiobutton3" value = "O" />
+            <label>Stay the same</label>
+
+            <input type = "radio" name = "radiobutton3" value = "P" />
+            <label>I dont Know</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 5:</b></P>
+      <p>A coin and a ring roll down an incline starting at the same time. The one to reach the bottom first will be the<br /><br />
+
+            <input type = "radio" name = "radiobutton4" value = "Q" />
+            <label>Coin</label>
+
+            <input type = "radio" name = "radiobutton4" value = "R" />
+            <label>Ring</label>
+
+            <input type = "radio" name = "radiobutton4" value = "S" />
+            <label>	The one with the least mass</label>
+
+            <input type = "radio" name = "radiobutton4" value = "T" />
+            <label>Both will reach at the same time</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 6:</b></P>
+      <p>A torque acting on an objct tend to produce<br /><br />
+
+            <input type = "radio" name = "radiobutton5" value = "U" />
+            <label>Equilibrium</label>
+
+            <input type = "radio" name = "radiobutton5" value = "V" />
+            <label>Rotation</label>
+
+            <input type = "radio" name = "radiobutton5" value = "W" />
+            <label>A center of gravity</label>
+
+            <input type = "radio" name = "radiobutton5" value = "X" />
+            <label>Linear motion</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 7:</b></P>
+      <p>On a balanced see-saw, a boy three times as heavy as his partner sits<br /><br />
+
+            <input type = "radio" name = "radiobutton6" value = "Y" />
+            <label>1/3 the distance from the fulcrum</label>
+
+            <input type = "radio" name = "radiobutton6" value = "Z" />
+            <label>Less than 1/3 the distance from the fulcrum</label>
+
+            <input type = "radio" name = "radiobutton6" value = "AA" />
+            <label>More than 1/3 the distance from the fulcrum</label>
+
+            <input type = "radio" name = "radiobutton6" value = "BB" />
+            <label>None of the above</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 8:</b></P>
+      <p>If you balance a broom horizontally on one finger, the center of gravity of the broom will be above your finger - closer to the bristles end than the handle end. If you saw the broom in two pieces at that point and weigh the two parts on a scale, you'll find that the lighter part is the<br /><br />
+
+            <input type = "radio" name = "radiobutton7" value = "CC" />
+            <label>Handle part</label>
+
+            <input type = "radio" name = "radiobutton7" value = "DD" />
+            <label>Bristles part</label>
+
+            <input type = "radio" name = "radiobutton7" value = "EE" />
+            <label>They have the same weight</label>
+
+            <input type = "radio" name = "radiobutton7" value = "FF" />
+            <label>None of the above</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 9:</b></P>
+      <p>A 1kg rock is suspended from the tip of a meter stick at the 0cm mark so that the meter stick balances like a see-saw when the fulcrum is at the 25cm mark. From this information what is the mass of the meter stick?<br /><br />
+
+            <input type = "radio" name = "radiobutton8" value = "GG" />
+            <label>1 kg</label>
+
+            <input type = "radio" name = "radiobutton8" value = "HH" />
+            <label>1/4 kg</label>
+
+            <input type = "radio" name = "radiobutton8" value = "II" />
+            <label>1/2 kg </label>
+
+            <input type = "radio" name = "radiobutton8" value = "JJ" />
+            <label>More than 1 kg</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 10:</b></P>
+      <p>A tightrope walker more easily balances on a tightrope if his pole<br /><br />
+
+            <input type = "radio" name = "radiobutton9" value = "KK" />
+            <label>Is held high</label>
+
+            <input type = "radio" name = "radiobutton9" value = "LL" />
+            <label>	Is short and light</label>
+
+            <input type = "radio" name = "radiobutton9" value = "MM" />
+            <label>Droops (bends)</label>
+
+            <input type = "radio" name = "radiobutto9" value = "NN" />
+            <label>Is short and heavy</label><br />
+
+      </p>

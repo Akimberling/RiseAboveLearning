@@ -1,0 +1,2 @@
+[18-Nov-2018 05:34:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/eledonta/public_html/riseabovelearning/templates/userlist.html.php on line 18
+[18-Nov-2018 05:34:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/eledonta/public_html/riseabovelearning/templates/categories.html.php on line 12

@@ -1,0 +1,167 @@
+  <p><b>Question 1:</b></P>
+      <p>The nations involved in the war formed two opposing alliances. What were they called?<br /><br />
+
+            <input type = "radio" name = "radiobutton" value = "A" />
+            <label>Axis and Allies</label>
+
+            <input type = "radio" name = "radiobutton" value = "B" />
+            <label>Homeland and Confederacy</label>
+
+            <input type = "radio" name = "radiobutton" value = "C" />
+            <label>Nazis and Freemen</label>
+
+            <input type = "radio" name = "radiobutton" value = "D" />
+            <label>Germany and America</label><br />
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 2:</b></P>
+      <p>How many years did World War II last?<br /><br />
+
+            <input type = "radio" name = "radiobutton1" value = "E" />
+            <label>4</label>
+
+            <input type = "radio" name = "radiobutton1" value = "F" />
+            <label>1</label>
+
+            <input type = "radio" name = "radiobutton1" value = "G" />
+            <label>6</label>
+
+            <input type = "radio" name = "radiobutton1" value = "H" />
+            <label>9</label><br />
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 3:</b></P>
+      <p>Who was the U.S. president when Pearl Harbor was attacked?<br /><br />
+
+            <input type = "radio" name = "radiobutton2" value = "I" />
+            <label>Franklin D. Roosevelt</label>
+
+            <input type = "radio" name = "radiobutton2" value = "J" />
+            <label>Calvin Coolidge</label>
+
+            <input type = "radio" name = "radiobutton2" value = "K" />
+            <label>Herbert Hoover</label>
+
+            <input type = "radio" name = "radiobutton2" value = "L" />
+            <label>Richard Nixon</label><br />
+
+         </p>
+         <div class="clear"></div>
+      <p><b>Question 4:</b></P>
+      <p>During the conflict, were there more civilian or battle-related deaths?<br /><br />
+
+            <input type = "radio" name = "radiobutton3" value = "M" />
+            <label>civilian deaths</label>
+
+            <input type = "radio" name = "radiobutton3" value = "N" />
+            <label>battle-related deaths</label>
+
+            <input type = "radio" name = "radiobutton3" value = "O" />
+            <label>the numbers are about the same</label>
+
+            <input type = "radio" name = "radiobutton3" value = "P" />
+            <label>I dont Know</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 5:</b></P>
+      <p>Some historians believe what contributing factor helped set the stage for World War II?<br /><br />
+
+            <input type = "radio" name = "radiobutton4" value = "Q" />
+            <label>instability in Europe following World War I</label>
+
+            <input type = "radio" name = "radiobutton4" value = "R" />
+            <label>widespread drought and the resulting famine in Europe</label>
+
+            <input type = "radio" name = "radiobutton4" value = "S" />
+            <label>class struggles in Europe and elsewhere</label>
+
+            <input type = "radio" name = "radiobutton4" value = "T" />
+            <label>invasion of Poland</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 6:</b></P>
+      <p>In what year did Germany invade Poland?<br /><br />
+
+            <input type = "radio" name = "radiobutton5" value = "U" />
+            <label>1929</label>
+
+            <input type = "radio" name = "radiobutton5" value = "V" />
+            <label>1939</label>
+
+            <input type = "radio" name = "radiobutton5" value = "W" />
+            <label>1941</label>
+
+            <input type = "radio" name = "radiobutton5" value = "X" />
+            <label>1940</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 7:</b></P>
+      <p>Adolf Hitler predicted the war in his memoir published in 1925. What was it called?<br /><br />
+
+            <input type = "radio" name = "radiobutton6" value = "Y" />
+            <label>"Mein Kampf"</label>
+
+            <input type = "radio" name = "radiobutton6" value = "Z" />
+            <label>"Meinem Triumph"</label>
+
+            <input type = "radio" name = "radiobutton6" value = "AA" />
+            <label>"Heimat"</label>
+
+            <input type = "radio" name = "radiobutton6" value = "BB" />
+            <label>"Nein"</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 8:</b></P>
+      <p>Which came first V-E Day (victory in Europe) or V-J Day (victory in Japan)?<br /><br />
+
+            <input type = "radio" name = "radiobutton7" value = "CC" />
+            <label>V-E Day</label>
+
+            <input type = "radio" name = "radiobutton7" value = "DD" />
+            <label>V-J Day</label>
+
+            <input type = "radio" name = "radiobutton7" value = "EE" />
+            <label>Same Time</label>
+
+            <input type = "radio" name = "radiobutton7" value = "FF" />
+            <label>Neither</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 9:</b></P>
+      <p>Two nuclear bombs were dropped on Japan in 1945, bringing about the surrender of Japanese forces and the end of the war in the Pacific theater. In which two Japanese cities were they detonated?<br /><br />
+
+            <input type = "radio" name = "radiobutton8" value = "GG" />
+            <label>Hiroshima and Nagasaki</label>
+
+            <input type = "radio" name = "radiobutton8" value = "HH" />
+            <label>Tokyo and Hiroshima</label>
+
+            <input type = "radio" name = "radiobutton8" value = "II" />
+            <label>Tokyo and Nagasaki</label>
+
+            <input type = "radio" name = "radiobutton8" value = "JJ" />
+            <label>None of the above</label><br />
+
+      </p>
+      <div class="clear"></div>
+      <p><b>Question 10:</b></P>
+      <p>The bombing of Pearl Harbor by the Imperial Japanese Navy motivated the U.S. to enter the war. On what date was Pearl Harbor attacked?<br /><br />
+
+            <input type = "radio" name = "radiobutton9" value = "KK" />
+            <label>Feb. 7, 1939</label>
+
+            <input type = "radio" name = "radiobutton9" value = "LL" />
+            <label>June 21, 1940</label>
+
+            <input type = "radio" name = "radiobutton9" value = "MM" />
+            <label>Dec. 7, 1941</label>
+
+            <input type = "radio" name = "radiobutto9" value = "NN" />
+            <label>Dec. 8, 1940</label><br />
+
+      </p>
